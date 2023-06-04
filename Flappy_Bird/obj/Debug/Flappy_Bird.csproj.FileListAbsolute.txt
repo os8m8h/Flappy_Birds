@@ -1,0 +1,11 @@
+D:\visual studio\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe.config
+D:\visual studio\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.exe
+D:\visual studio\Flappy_Bird\Flappy_Bird\bin\Debug\Flappy_Bird.pdb
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.AssemblyReference.cache
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.SuggestedBindingRedirects.cache
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.Form1.resources
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.Properties.Resources.resources
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.GenerateResource.cache
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.csproj.CoreCompileInputs.cache
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.exe
+D:\visual studio\Flappy_Bird\Flappy_Bird\obj\Debug\Flappy_Bird.pdb
